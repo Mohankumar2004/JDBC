@@ -1,4 +1,4 @@
-package JDBC1;
+package JDBC2;
 
 public class payment {
 	static boolean isSucess() {
